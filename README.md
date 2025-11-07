@@ -86,4 +86,6 @@ To create a banking system that transfers money between accounts with transactio
 ---
 
 ## 📂 Folder Structure
+SpringHibernateProjects/ ├── PartA_DI_Spring/ ├── PartB_Hibernate_CRUD/ └── PartC_Spring_Hibernate_Transaction/
+Each folder contains its own `pom.xml`, source code, and configuration files.
 
